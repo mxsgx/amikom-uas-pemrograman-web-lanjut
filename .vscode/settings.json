@@ -1,0 +1,5 @@
+{
+	"php-cs-fixer.executablePath": "${workspaceFolder}/vendor/bin/php-cs-fixer",
+	"php-cs-fixer.allowRisky": true,
+	"php.version": "7.4"
+}

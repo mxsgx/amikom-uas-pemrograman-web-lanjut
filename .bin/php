@@ -1,0 +1,3 @@
+path=$(printf '%s\n' "${PWD##*/}")
+command="docker exec ${path}-web-1 php "$@""
+$command
